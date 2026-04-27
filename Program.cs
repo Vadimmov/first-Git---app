@@ -4,9 +4,7 @@ class HelloGit
 {
     static void Main()
     {
-
-
-        Console.WriteLine("Привет, Git-сервис!");
-        Console.WriteLine($"Дата: {DateTime.Now:dd.MM.yyyy}");
+        Console.WriteLine("РџСЂРёРІРµС‚, Git-СЃРµСЂРІРёСЃ!");
+        Console.WriteLine($"Р”Р°С‚Р°: {DateTime.Now:dd.MM.yyyy}");
     }
 }
